@@ -1,0 +1,11 @@
+Model Information:
+* title:	Autumn maple
+* source:	https://sketchfab.com/3d-models/autumn-maple-fe8ce41c430140c1bf125ea830fe5907
+* author:	MasterOfTheMadWorld (https://sketchfab.com/masterofthemadworld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Autumn maple" (https://sketchfab.com/3d-models/autumn-maple-fe8ce41c430140c1bf125ea830fe5907) by MasterOfTheMadWorld (https://sketchfab.com/masterofthemadworld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
